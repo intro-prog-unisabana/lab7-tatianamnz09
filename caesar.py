@@ -1,4 +1,3 @@
-# FREEZE CODE BEGIN
 def caesar_encrypt(text: str, shift: int = 3) -> str:
     """Encrypts only letters using a Caesar cipher, leaving numbers and symbols unchanged."""
     encrypted_text = ""
